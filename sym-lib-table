@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "0Capacitors")(type "KiCad")(uri "${KIPRJMOD}/libraries/Capacitors.kicad_sym")(options "")(descr ""))
+  (lib (name "0LEDs")(type "KiCad")(uri "${KIPRJMOD}/libraries/LEDs.kicad_sym")(options "")(descr ""))
+  (lib (name "0Connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/Connectors.kicad_sym")(options "")(descr ""))
+)
