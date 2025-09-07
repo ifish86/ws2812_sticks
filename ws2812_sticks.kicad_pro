@@ -52,9 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        "silk_overlap|147954819|97500000|139d01fb-8306-460c-a8e0-1ceaff0651ee|d53cc497-6cbd-46a3-b3b3-56c24cf395fc"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -471,7 +469,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ws2812_sticks_4_led.step",
+      "step": "ws2812_sticks_8_led.step",
       "svg": "",
       "vrml": ""
     },
